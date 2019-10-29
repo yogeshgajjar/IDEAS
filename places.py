@@ -9,7 +9,7 @@ import json
 
 
 def recommend_places():
-    k="AIzaSyBQDRX2KU0qa-JS1O3UlCH6VR8Yc1bsk-Y"
+    k="YOUR KEY"
 
     gmaps = googlemaps.Client(key=k)
 
