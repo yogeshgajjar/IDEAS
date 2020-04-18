@@ -1,5 +1,5 @@
 # IDEAS
-### Intelligent Driver Enhanced and Automated System
+### Intelligent Driver Enhanced Assistance System
 
 
 #### Inspiration
